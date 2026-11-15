@@ -1,0 +1,8 @@
+{
+  "name": "Sri Krishna Gaushala — Admin Dashboard",
+  "description": "Internal animal care, healthcare, feeding, inventory, and daily operations management dashboard for Sri Krishna Gaushala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
